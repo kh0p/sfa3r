@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: cb1342cb483757449b775170430d0abf
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ryu_line1_0
+    21300002: ryu_line1_1
+    21300004: ryu_line1_2
+    21300006: ryu_line1_3
+    21300008: ryu_line1_4
+    21300010: ryu_line1_5
+    21300012: ryu_line1_6
+    21300014: ryu_line1_7
+    21300016: ryu_line1_8
+    21300018: ryu_line1_9
+    21300020: ryu_line1_10
+    21300022: ryu_line1_11
+    21300024: ryu_line1_12
+    21300026: ryu_line1_13
+    21300028: ryu_line1_14
+    21300030: ryu_line1_15
+    21300032: ryu_line1_16
+    21300034: ryu_line1_17
+    21300036: ryu_line1_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ryu_line1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1
+        width: 51
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1
+        width: 54
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_13
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_14
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_15
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_16
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_17
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ryu_line1_18
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
